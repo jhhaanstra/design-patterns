@@ -4,4 +4,4 @@ This is a basic setup for different design patterns in Java based on the book "H
 ## issues
 The examples may lack some information because of lack of time.
 * Proxy pattern example is not completely finished
-* Some examples lack of comments
+* Some examples lack clear comments
